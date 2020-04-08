@@ -1,0 +1,2 @@
+# nrim
+personal website
